@@ -7,4 +7,4 @@ function addingEventListener() {
 
   input.addEventListener("click", clickAlert)
 }
-console.log(addingEventListener())
+addingEventListener()
